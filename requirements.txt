@@ -1,0 +1,2 @@
+websockets>=10.0
+pyglet>=2.0
